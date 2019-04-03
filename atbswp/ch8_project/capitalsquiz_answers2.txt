@@ -1,0 +1,50 @@
+1. B: Salem
+2. B: Santa Fe
+3. D: Madison
+4. B: Bismarck
+5. C: Tallahassee
+6. D: Oklahoma City
+7. A: Richmond
+8. B: Trenton
+9. D: Juneau
+10. D: Jefferson City
+11. B: Augusta
+12. D: Atlanta
+13. C: Salt Lake City
+14. C: Columbia
+15. D: Helena
+16. A: Lansing
+17. C: Cheyenne
+18. A: Dover
+19. C: Little Rock
+20. C: Honolulu
+21. D: Columbus
+22. D: Phoenix
+23. D: Providence
+24. B: Austin
+25. A: Albany
+26. B: Saint Paul
+27. C: Harrisburg
+28. B: Springfield
+29. D: Charleston
+30. A: Lincoln
+31. D: Boise
+32. C: Des Moines
+33. D: Topeka
+34. C: Denver
+35. C: Frankfort
+36. C: Montgomery
+37. A: Sacramento
+38. A: Jackson
+39. B: Boston
+40. C: Annapolis
+41. D: Olympia
+42. C: Pierre
+43. D: Montpelier
+44. A: Raleigh
+45. A: Indianapolis
+46. D: Hartford
+47. C: Concord
+48. D: Carson City
+49. C: Nashville
+50. D: Baton Rouge
