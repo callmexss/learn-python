@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.org/simple"
+
+[packages]
+jupyter = "*"
+notebook = "*"
+nbextensions = "*"
+jupyter-contrib-nbextensions = "*"
+jupyter-nbextensions-configurator = "*"
+"autopep8" = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.5"
