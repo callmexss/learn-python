@@ -10,6 +10,7 @@ nbextensions = "*"
 jupyter-contrib-nbextensions = "*"
 jupyter-nbextensions-configurator = "*"
 "autopep8" = "*"
+yapf = "*"
 
 [dev-packages]
 
