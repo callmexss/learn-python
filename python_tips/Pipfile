@@ -11,6 +11,8 @@ jupyter-contrib-nbextensions = "*"
 jupyter-nbextensions-configurator = "*"
 "autopep8" = "*"
 yapf = "*"
+pillow = "*"
+matplotlib = "*"
 
 [dev-packages]
 
