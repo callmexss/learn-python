@@ -15,6 +15,7 @@ pillow = "*"
 matplotlib = "*"
 mysql-connector = "*"
 pysnooper = "*"
+requests = "*"
 
 [dev-packages]
 Jinja2 = ">=2.10.1"
